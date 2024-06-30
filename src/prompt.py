@@ -1,6 +1,6 @@
 PROMPT = """
 
-Generate a valid SQL query for the following natural language instruction:
+Generate a valid ${db_type} query for the following natural language instruction:
 
 ${nl_instruction}
 
